@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8256267b-4f49-42d1-a724-715d61910194"
+      }
+    },
+    "owner": "deerlord"
   }
 }
